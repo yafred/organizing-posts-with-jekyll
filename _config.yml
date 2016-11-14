@@ -1,0 +1,9 @@
+defaults:
+  - scope:
+      path: "_posts/news"
+    values:
+      type: "news"
+  - scope:
+      path: "_posts/work"
+    values:
+      type: "work"

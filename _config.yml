@@ -1,3 +1,5 @@
+baseurl: '/organizing-posts-with-jekyll'
+
 defaults:
   - scope:
       path: "_posts/news"

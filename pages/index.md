@@ -4,6 +4,6 @@ permalink: /index.html
 ---
 
 <ul>
-<li><a href="/work.html">Work</a></li>
-<li><a href="/news.html">News</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/work.html">Work</a></li>
+<li><a href="{{ site.url }}{{site.baseurl}}/news.html">News</a></li>
 </ul>
